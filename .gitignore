@@ -1,0 +1,16 @@
+# Node, Python, and OS junk (customize as needed)
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+.idea/
+.vscode/
+node_modules/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Add more patterns as needed
